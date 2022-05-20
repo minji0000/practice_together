@@ -1,0 +1,161 @@
+[유용한 사이트]
+
+*CSS 셀렉터 쉽게 해보는 사이트(CSS Diner)
+https://flukeout.github.io/
+
+*코드펜 - 여러가지 코드들을 볼 수 있고 블로그에 코드를 작성해서 올릴 수 있다.
+https://codepen.io/following
+
+*무료 전자첵 링크 모아 놓은 github
+https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-ko.md
+
+*무료 프로그래밍 도서
+https://gall.dcinside.com/board/view/?id=programming&no=1141982
+
+*익스플로러 디버거 사용하기 마스터
+https://javaengine.tistory.com/entry/F12-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC-%EB%94%94%EB%B2%84%EA%B1%B0-%EC%B0%BD-Part-4
+*디버거 사용하기 
+https://subicura.com/2018/02/14/javascript-debugging.html
+
+*모던 자바스크립트 튜토리얼
+https://ko.javascript.info/
+
+[깃 허브 관련]
+
+*유튜브 깃 험 짧게
+https://www.youtube.com/watch?v=lelVripbt2M
+*인프런 깃 헙 보기(유튜브에도 있음)
+https://www.inflearn.com/course/git-and-github
+
+[HTML 혹은 CSS]
+
+*meta 태그와 인라인 태그
+https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=ko&visit_id=637870803718347299-2409185597&rd=1
+
+*html input pattern정규 표현식
+https://neomania.tistory.com/3
+
+*체크박스 체크여부
+https://hianna.tistory.com/702
+
+*헤더 만들기(스벅 따라하기)
+https://siot0.tistory.com/m/3
+
+*before after 관련 글
+※before란 선택된 요소 전에 콘텐츠를 추가해주는 메서드입니다.
+예) >>이부분<<   <h1>기준점입니다.</h1>
+
+※after란 선택된 요소 다음에 콘텐츠를 추가해주는 메서드입니다.
+예) <h1>기준점입니다.</h1> >>이부분<< 
+
+※prepend란 선택된 요소의 여는 태그다음에 콘텐츠를 추가해주는 메서드입니다.
+예) <h1> >>이부분<<  기준점입니다.</h1>
+
+※append란 선택된 요소의 닫는 태그전에 콘텐츠를 추가해주는 메서드입니다.
+예) <h1
+
+*드림코드 css만들기 유튜브(1 2 3 편 보기)
+https://www.youtube.com/results?search_query=%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9+css
+
+*드롭다운 메뉴 만들기(list로)
+https://blog.naver.com/PostView.naver?blogId=bgpoilkj&logNo=221150512824
+
+*input type="text"에 아이콘 넣기
+https://pygmalion0220.tistory.com/entry/inputtypetext%EC%97%90-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%84%A3%EA%B8%B0201989
+
+*slelctor3 번역 과 그 외 여러가지 번역 정보
+
+https://techhtml.github.io/
+
+*정규표현식 (유효성 검사)
+
+https://www.nextree.co.kr/p4327/?msclkid=9bfebdc1cfaa11ec9649f45445d76c1e
+
+ js 버전( 유효성 검사)
+https://olsh1108o.tistory.com/entry/JS-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC
+
+
+[JAVASCRIPT 관련]
+
+*var, let, const 차이점
+https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90
+
+*객체(object) 관련
+
+객체생성 프로퍼티 접근
+https://junspapa-itdev.tistory.com/22
+JSON object에 접근하기
+https://gamepp.tistory.com/18
+
+https://jihyundev.tistory.com/7
+
+
+*파일다운로드(js에서 컨텐츠를 파일로 만들어서 다운)
+
+https://code-boxx.com/create-save-files-javascript/
+
+https://heropy.blog/2019/02/28/blob/
+
+https://thiscouldbebetter.wordpress.com/2012/12/18/loading-editing-and-saving-a-text-file-in-html5-using-javascrip/
+
+
+*미 분류
+
+개발자 90%가 모르는 자바스크립트 동작 원리(스택 큐~)
+https://youtu.be/v67LloZ1ieI
+
+script async와 defer의 차이점
+https://www.youtube.com/watch?v=tJieVCgGzhs&t=883s
+
+[JQUERY 관련 글]
+
+*preventDefault와 return false 차이
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=classe82&logNo=221581820838
+
+*return false 되었는데도 submit되는 현상
+https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_html&wr_id=116523
+
+[SQL 관련]
+
+*SQL 관련 글 1
+
+SQL ? = 구조적 쿼리 언어  structured query language.
+
+What can SQL do?
+데이터 베이스에 대하여 요청을 보낼수 있음.
+데이터베이스에서 데이터 검색가능.
+데이터 베이스에 레코드 삽입 가능
+데이터 베이스에 레코드 업데이트 가능
+데이터 베이스에 레코드 삭제 가능.
+새로운 데이터베이스 구축 가능.
+데이터 베이스에서 새로운 뷰 생성가능??
+데이터베이스에서 저장 프로시져?? 생성가능
+데이터베이스,테이블, 프로시져 뷰에 대한 권한 설정가능.
+
+
+==========================================
+
+[JAVA 관련]
+
+* 자바 기초 유튜브로 보기
+
+-이것이 자바다
+
+https://youtube.com/playlist?list=PLVsNizTWUw7FPokuK8Cmlt72DQEt7hKZu
+
+-자바의 정석
+
+https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
+
+%%이것이 자바다 자바의 정석의 학원 5층에 비치되어 있습니다. 빌려보시고 강의도 보시고 더 맞는걸 보시는게 좋아보입니다. %%
+
+-권오흠 교수님 (검색하다 찾았는데 좋아보임)
+
+https://youtube.com/playlist?list=PL52K_8WQO5oWz_LYm3xg23m5q9qJXoE4n 
+ 이분도 자바 기초 개념 잡을 수 있는거 같아요. 자료구조 알고리즘이라고 써있긴 하지만
+
+stack, heap 메모리 영역 -
+https://hymndev.tistory.com/21
+
+책보면 어차피 나오지만 미리 알아두면 "클래스 객체 인스턴스" 에 대해서 이해하기 좋아요.
