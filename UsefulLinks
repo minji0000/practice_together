@@ -1,3 +1,4 @@
+톡게시판 들어가서 봐주세요.
 [유용한 사이트]
 
 *CSS 셀렉터 쉽게 해보는 사이트(CSS Diner)
@@ -99,7 +100,7 @@ https://heropy.blog/2019/02/28/blob/
 https://thiscouldbebetter.wordpress.com/2012/12/18/loading-editing-and-saving-a-text-file-in-html5-using-javascrip/
 
 
-*미 분류
+***웹 미 분류
 
 개발자 90%가 모르는 자바스크립트 동작 원리(스택 큐~)
 https://youtu.be/v67LloZ1ieI
@@ -150,12 +151,42 @@ https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp
 
 %%이것이 자바다 자바의 정석의 학원 5층에 비치되어 있습니다. 빌려보시고 강의도 보시고 더 맞는걸 보시는게 좋아보입니다. %%
 
+stack, heap 메모리 영역 -
+https://hymndev.tistory.com/21
+
+
+[코딩테스트 준비]
+
+(두줄 요약) 
+자료 구조 - 컴퓨터에 자료를 정리하는 방법
+알고 리즘 - 컴퓨터에 정리된 자료를 찾는 방법
+
+-엔지니어 대한민국 : 자료구조 알고리즘 유튜브
+https://www.youtube.com/user/damazzang 
+
 -권오흠 교수님 (검색하다 찾았는데 좋아보임)
 
 https://youtube.com/playlist?list=PL52K_8WQO5oWz_LYm3xg23m5q9qJXoE4n 
  이분도 자바 기초 개념 잡을 수 있는거 같아요. 자료구조 알고리즘이라고 써있긴 하지만
 
-stack, heap 메모리 영역 -
-https://hymndev.tistory.com/21
+-삼성에서 만든 코딩테스트
+https://swexpertacademy.com/main/main.do
 
-책보면 어차피 나오지만 미리 알아두면 "클래스 객체 인스턴스" 에 대해서 이해하기 좋아요.
+-백준 온라인 저지(코딩테스트 준비 초보자용)
+https://www.acmicpc.net/
+
+-solved.ac(백준 문제 티어벼롤 정리된 사이트)
+https://solved.ac/
+
+-프로그래머스(코딩테스트 본격)
+https://programmers.co.kr/
+
+[번외]
+
+-각 개발 직군 별 로드맵
+https://roadmap.sh/roadmaps
+
+-당신의 나이는 프로그래머하기에 늦지 않았다.
+
+https://medium.com/@kris_hwang/30%EB%8C%80-40%EB%8C%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-50%EB%8C%80%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C-300%EB%AA%85%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%88%EC%97%AD-8f8d39866ac4
+
